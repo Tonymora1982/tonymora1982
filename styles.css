@@ -1,159 +1,17 @@
-
-/* Reset and Global Styles */
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+/* Estilos para el menú lateral */
+#sidebar {
+    width: 250px;
+    position: fixed;
+    height: 100%;
+    background-color: #ffffff;
 }
 
-body, .dark-mode {
-    font-family: Arial, sans-serif;
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-body {
-    color: #333;
-    background-color: #f0f0f0;
-}
-
-.dark-mode {
-    background-color: #222;
-    color: #fff;
-}
-
-/* Container and Section Styles */
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 40px;
-}
-
-section {
-    padding: 40px 0;
-}
-
-/* Header and Navigation Styles */
-header, footer, .navbar {
-    background-color: #333;
-    color: #fff;
+/* Estilos para el contenido principal */
+#main-content {
+    margin-left: 260px;
     padding: 20px;
 }
 
-.navbar {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 100;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-}
-
-nav ul li {
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: inherit;
-    text-decoration: none;
-}
-
-/* Hero Section */
-.hero {
-    text-align: center;
-    margin-top: 100px;
-    background: linear-gradient(to right, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%);
-    padding: 100px 0;
-}
-
-.hero h1 {
-    font-size: 36px;
-}
-
-.hero p {
-    font-size: 18px;
-}
-
-/* Project Section */
-.project {
-    margin-bottom: 40px;
-}
-
-.project img {
-    width: 100%;
-    max-width: 400px;
-}
-
-.project h3 {
-    font-size: 24px;
-}
-
-/* Contact Section */
-#contact {
-    background-color: #fff;
-    padding: 40px;
-    text-align: center;
-}
-
-.contact-form, .contact-info {
-    font-size: 18px;
-    margin-bottom: 20px;
-}
-
-.contact-form form {
-    display: grid;
-    gap: 20px;
-}
-
-.contact-form input,
-.contact-form textarea,
-.contact-form button {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    width: 100%;
-    font-size: 16px;
-}
-
-.contact-form button {
-    background-color: #333;
-    color: #fff;
-    cursor: pointer;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-}
-
-/* Theme Switch */
-.theme-switch {
-    position: relative;
-    display: inline-block;
-    width: 40px;
-    height: 20px;
-}
-
-.theme-switch input[type="checkbox"] {
-    display: none;
-}
-
-.theme-switch label {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 20px;
-    height: 20px;
-    background-color: #fff;
-    border-radius: 50%;
-    transition: transform 0.3s ease;
-}
-
-.theme-switch input[type="checkbox"]:checked + label {
-    transform: translateX(20px);
-}
 
 
 
