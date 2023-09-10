@@ -1,15 +1,86 @@
 /* Estilos para el menú lateral */
 #sidebar {
-    width: 250px;
+    width: 300px;
     position: fixed;
     height: 100%;
-    background-color: #ffffff;
+    background-color: #FFFFFF;
+    padding: 40px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+}
+
+    #sidebar h1, #sidebar p, #social-media-links {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    #sidebar h1 {
+        color: #000000;
+        margin-bottom: 20px;
+    }
+
+    #sidebar p {
+        color: #7D7D7D;
+        margin-bottom: 30px;
+    }
+
+#social-media-links a {
+    color: #007BFF;
+    margin-right: 15px;
+    font-size: 18px;
 }
 
 /* Estilos para el contenido principal */
 #main-content {
-    margin-left: 260px;
-    padding: 20px;
+    margin-left: 350px;
+    padding: 60px;
+    max-width: 1600px; /* Limitar el ancho máximo del contenido */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    #main-content h2 {
+        color: #000000;
+        margin-bottom: 30px;
+        font-size: 32px;
+    }
+
+    #main-content p {
+        color: #7D7D7D;
+        margin-bottom: 40px;
+        font-size: 20px;
+    }
+
+    #main-content section {
+        margin-bottom: 70px;
+    }
+
+
+
+/* Añadir estilos adicionales al archivo styles.css */
+
+#sidebar h1 {
+    font-size: 24px;
+    margin: 15px;
+}
+
+#sidebar p {
+    font-size: 16px;
+    color: #7D7D7D;
+    margin: 15px;
+}
+
+#social-media-links {
+    margin: 15px;
+}
+/* Añadir estilos adicionales al archivo styles.css */
+#main-content h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+#main-content p {
+    font-size: 18px;
+    margin-bottom: 20px;
 }
 
 
