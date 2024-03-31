@@ -5,7 +5,7 @@ Hola! 👋 bienvenido a https://tonymora1982.github.io/tonymora1982/
 ## 👨🏻‍💻 Sobre Mí
 
 
-# Soy un profesional versátil y colaborador con más de 12 años de experiencia en industria médica, desempeñando funciones importantes en gestión de equipos de producción y más recientemente en Ingeniería de R&D. Actualmente estoy completando mis estudios en Ingeniería Informática y tambien recientemente inicie con Ingeniería en Electrónica. He adquirido un compromiso constante con la mejora continua y la persecución de objetivos, respaldado por sólidas habilidades organizativas y técnicas. Mi enfoque metódico y mi capacidad de adaptación me permiten desenvolverme con eficacia en entornos de gran dinamismo así como ayudar mejorar procesos, para alcanzar la excelencia operativa.
+Soy un profesional versátil y colaborador con más de 12 años de experiencia en industria médica, desempeñando funciones importantes en gestión de equipos de producción y más recientemente en Ingeniería de R&D. Actualmente estoy completando mis estudios en Ingeniería Informática y tambien recientemente inicie con Ingeniería en Electrónica. He adquirido un compromiso constante con la mejora continua y la persecución de objetivos, respaldado por sólidas habilidades organizativas y técnicas. Mi enfoque metódico y mi capacidad de adaptación me permiten desenvolverme con eficacia en entornos de gran dinamismo así como ayudar mejorar procesos, para alcanzar la excelencia operativa.
 
 
 
