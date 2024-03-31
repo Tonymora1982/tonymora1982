@@ -12,13 +12,14 @@ Soy un profesional versátil y colaborativo con más de 10 años de experiencia 
 - **Herramientas y Metodologías**: Agile Scrum, JIRA, Microsoft Office Avanzado, Power Apps Intermedio
 - **Diseño y Pruebas**: Experiencia en pruebas de diseño, verificación técnica y optimización de procesos.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-...-style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-...-style=for-the-badge&logo=python)
-![Agile](https://img.shields.io/badge/-Agile-...-style=for-the-badge&logo=agile)
-![Scrum](https://img.shields.io/badge/-Scrum-...-style=for-the-badge&logo=scrum)
-![JIRA](https://img.shields.io/badge/-JIRA-...-style=for-the-badge&logo=jira)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-...-style=for-the-badge&logo=microsoft-office)
-![Power Apps](https://img.shields.io/badge/-Power_Apps-...-style=for-the-badge&logo=powerapps)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-007ACC?style=flat-square&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-FF4500?style=flat-square&logo=scrum&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Power Apps](https://img.shields.io/badge/-Power_Apps-742774?style=flat-square&logo=power-apps&logoColor=white)
+
 
 
 ## 📈 Estadísticas de GitHub
