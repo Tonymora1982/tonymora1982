@@ -1,6 +1,6 @@
-https://tonymora1982.github.io/tonymora1982/ Hi there 👋
+https://tonymora1982.github.io/tonymora1982/ Hola, bienvenido! 👋
 
- Hola, mi nombre es Anthony Mora Parra 👋
+ Mi nombre es Anthony Mora Parra.
 
 ## 👨🏻‍💻 Sobre Mí
 
