@@ -10,7 +10,7 @@ Soy un profesional versátil y colaborativo con más de 10 años de experiencia 
 
 - **Lenguajes de Programación**: JavaScript (Principiante), Python (Principiante)
 - **Herramientas y Metodologías**: Agile Scrum, JIRA, Microsoft Office Avanzado, Power Apps Intermedio
-- **Diseño y Pruebas **: Experiencia en pruebas de diseño, verificación técnica y optimización de procesos.
+- **Diseño y Pruebas**: Experiencia en pruebas de diseño, verificación técnica y optimización de procesos.
 
 ## 📈 Estadísticas de GitHub
 
