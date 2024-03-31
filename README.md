@@ -57,3 +57,4 @@ Soy un profesional versátil y colaborativo con más de 10 años de experiencia 
 ## 📫 Contáctame
 
 - Correo: [tonymora1982@gmail.com](mailto:tonymora1982@gmail.com)
+[![Correo](https://img.shields.io/badge/-Correo-...-style=flat&logo=gmail)](mailto:tonymora1982@gmail.com)
