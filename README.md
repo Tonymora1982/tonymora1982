@@ -12,6 +12,15 @@ Soy un profesional versátil y colaborativo con más de 10 años de experiencia 
 - **Herramientas y Metodologías**: Agile Scrum, JIRA, Microsoft Office Avanzado, Power Apps Intermedio
 - **Diseño y Pruebas**: Experiencia en pruebas de diseño, verificación técnica y optimización de procesos.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-...-style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-...-style=for-the-badge&logo=python)
+![Agile](https://img.shields.io/badge/-Agile-...-style=for-the-badge&logo=agile)
+![Scrum](https://img.shields.io/badge/-Scrum-...-style=for-the-badge&logo=scrum)
+![JIRA](https://img.shields.io/badge/-JIRA-...-style=for-the-badge&logo=jira)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-...-style=for-the-badge&logo=microsoft-office)
+![Power Apps](https://img.shields.io/badge/-Power_Apps-...-style=for-the-badge&logo=powerapps)
+
+
 ## 📈 Estadísticas de GitHub
 
 ![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonymora1982&show_icons=true)
