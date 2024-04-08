@@ -1,6 +1,6 @@
 👋 ¡Bienvenido a mi perfil de GitHub! Por favor elige tu idioma preferido:
 
-- 🇺🇸 [English](https://github.com/tonymora1982/tonymora1982/blob/main/ReadMeEN.md)
+- 🇺🇸 [English](https://github.com/tonymora1982/tonymora1982/blob/main/ReadMe_EN.md)
 
  Mi nombre es Anthony Mora Parra.
 
