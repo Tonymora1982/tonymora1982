@@ -1,4 +1,7 @@
-Hola! 👋 bienvenido a https://tonymora1982.github.io/tonymora1982/
+👋 ¡Bienvenido a mi perfil de GitHub! Por favor elige tu idioma preferido:
+
+- 🇪🇸 [Español](https://github.com/tonymora1982#readme)
+- 🇺🇸 [English](https://github.com/tonymora1982/ReadMe_EN)
 
  Mi nombre es Anthony Mora Parra.
 
