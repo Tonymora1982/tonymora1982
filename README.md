@@ -1,140 +1,222 @@
-# 👋 ¡Bienvenido a mi perfil de GitHub! 
-### 🌐 Welcome to my GitHub profile!
+# Anthony Mora Parra
 
-**Por favor elige tu idioma preferido / Please choose your preferred language:**
-- 🇪🇸 [Español](#español-es) 
-- 🇺🇸 [English](#english-en)
+**Principal R&D Engineer · Full-Stack Developer · Founder @ GeeksLab.tech**
+
+> *"Bridging traditional engineering excellence with modern software innovation"*
+>
+> ---
+>
+> ## About Me
+>
+> I'm a Principal R&D Engineer and founder of [GeeksLab.tech](https://geekslab.tech) with 13+ years of experience in the medical device industry and modern software development. Currently working at the Instituto Nacional de Seguros (INS) while completing my degree in Computer Engineering (95% complete) and Electronic Engineering.
+>
+> I specialize in building robust, enterprise-grade solutions that combine hardware knowledge with modern web technologies — from embedded systems and ISO 13485 processes to full-stack applications with Next.js and TypeScript.
+>
+> ---
+>
+> ## Key Achievements
+>
+> | Metric | Result |
+> |---|---|# Anthony Mora Parra
+
+**Principal R&D Engineer | Full-Stack Developer | Founder @ GeeksLab.tech**
+
+*"Bridging traditional engineering excellence with modern software innovation"*
 
 ---
 
-## Español (ES)
+## About Me
 
-# 🚀 Anthony Mora Parra
-## Principal R&D Engineer | Full-Stack Developer | GeeksLab.tech Founder
+I'm a Principal R&D Engineer and founder of [GeeksLab.tech](https://geekslab.tech) with 13+ years of experience in the medical device industry and modern software development. Currently working at the Instituto Nacional de Seguros (INS) while completing my degree in Computer Engineering (95% complete) and Electronic Engineering.
 
-> **💡 "Bridging traditional engineering excellence with modern software innovation"**
+I specialize in building robust, enterprise-grade solutions that combine hardware knowledge with modern web technologies, from embedded systems and ISO 13485 processes to full-stack applications with Next.js and TypeScript.
 
-### 👨‍💻 Sobre Mí
+---
 
-Soy **Principal R&D Engineer** y fundador de **GeeksLab.tech** con **13+ años** de experiencia en la industria de dispositivos médicos y desarrollo de software moderno. Actualmente trabajo en el **Instituto Nacional de Seguros (INS)** mientras completo mi grado en **Ingeniería Informática** (95% completado) y **Ingeniería Electrónica**.
+## Key Achievements
 
-**🏆 Logros Destacados:**
-- ✅ **15% mejora** en eficiencia de producción 
-- ✅ **25% reducción** en tiempo de control de calidad
-- ✅ **98% cumplimiento** de seguridad liderando equipos de 12+ personas
-- ✅ **100% tasa de éxito** en entrega de proyectos R&D (6+ años)
+| Metric | Result |
+|---|---|
+| Production Efficiency | +15% improvement |
+| Quality Control Time | -25% reduction |
+| Safety Compliance | 98% leading teams of 12+ |
+| R&D Project Delivery | 100% success rate over 6+ years |
+| Documented Process ROI | $500K+ in savings |
 
-### 🛠 Stack Tecnológico
+---
 
-**Frontend & Full-Stack:**
+## Tech Stack
 
-**Backend & Tools:**
+**Frontend and Full-Stack**
 
-**R&D & Manufacturing:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend and Tools**
 
-### 📊 GitHub Stats
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="center">
-  
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tonymora1982&show_icons=true&theme=radical)
+**R&D and Manufacturing**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tonymora1982&layout=compact&theme=radical)
+![ISO 13485](https://img.shields.io/badge/ISO_13485-Medical_Devices-blue?style=flat-square)
+![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-Process_Optimization-green?style=flat-square)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-brightgreen?style=flat-square)
 
-</div>
+---
 
-### 🎯 Proyectos Destacados
+## Featured Projects
 
-#### 🏢 [GeeksLab.tech - Corporate Platform](https://geekslab.tech)
-> **Plataforma corporativa empresarial con arquitectura multi-dominio**
-- 🔒 **100/100 Score de Seguridad** - Certificación nivel empresarial
-- 🌐 **Multi-Domain Ready** - geekslab.tech | cv.geekslab.tech | portfolio.geekslab.tech  
-- ⚡ **Next.js 15 + TypeScript** - Arquitectura moderna y escalable
-- 🛡️ **13 Security Headers** - Protección empresarial completa
+### GeeksLab.tech Corporate Platform
+Enterprise platform with multi-domain architecture.
+- **Security Score:** 100/100 enterprise-level certification
+- **Stack:** Next.js 15 + TypeScript + 13 Security Headers
+- **Domains:** geekslab.tech, cv.geekslab.tech, portfolio.geekslab.tech
 
-#### 📄 [Professional CV System](https://cv.geekslab.tech)
-> **Sistema de CV profesional con generación PDF automática**
-- 📊 **Métricas ROI** - $500K+ en ahorros de proceso documentados
-- 🎯 **Optimizado para Reclutadores** - 9 mejoras específicas implementadas
-- 📱 **Responsive Design** - Experiencia perfecta en todos los dispositivos
+### Professional CV System
+Automated PDF generation system optimized for technical recruiters.
+- $500K+ in documented process savings
+- 9 recruiter-specific improvements implemented
+- Fully responsive across all devices
 
-#### 💼 [Technical Portfolio](https://portfolio.geekslab.tech)
-> **Showcase técnico con proyectos de desarrollo**
-- 🚀 **Casos de Estudio Reales** - Proyectos con impacto medible
-- 🎨 **UI/UX Moderno** - Diseño profesional y animaciones fluidas
+---
 
-### 🎓 Educación & Certificaciones
+## Professional Experience
 
-**📚 Educación Formal:**
-- 🎓 **Ingeniería Informática** - UNED (95% completado - Solo TFG pendiente)
-- 🎓 **Diploma en Ciencias de la Computación** - UNED (Completado 2024)  
-- 🎓 **Ingeniería Electrónica** - UTN (En progreso)
+**Administrative Assistant — INS (Instituto Nacional de Seguros)** 2025-Present
+Applying R&D analytical skills to optimize administrative processes and documentation systems.
 
-**🏆 Certificaciones Profesionales:**
-- ✅ **ISO 13485** - Medical Device Quality Management
-- ✅ **Lean Manufacturing** - Process Optimization  
-- ✅ **Six Sigma Green Belt** - Statistical Quality Control
+**Production Supervisor — Establishment Labs** Sep 2024 - Apr 2025
+Led teams of 12+ members. Achieved 15% production efficiency improvement and 98% safety compliance.
 
-**📈 Próximas Certificaciones (Inversión: $3,000+):**
-- 🎯 **Linux Foundation Certified (LFCS)** - Q2 2025
-- 🎯 **Certified Ethical Hacker (CEH)** - Q3 2025  
-- 🎯 **OSCP** - Q1 2026
+**Jr. R&D Engineer — Establishment Labs** Sep 2021 - Oct 2023
+Experimental testing, prototyping, design verification, and ISO 13485 technical documentation.
 
-### 💼 Experiencia Profesional Reciente
+---
 
-**🏛️ Asistente Administrativo** - INS (Instituto Nacional de Seguros) *(2025 - Presente)*
-- Optimización de procesos administrativos aplicando skills analíticos de R&D
-- Mejora de sistemas de documentación con background técnico
+## Education and Certifications
 
-**👨‍🔬 Supervisor de Producción** - Establishment Labs *(Sep 2024 - Abr 2025)*  
-- Gestión de objetivos: Seguridad, Calidad, Cantidad y Tiempo
-- **15% mejora** en eficiencia de producción implementada
-- Liderazgo de equipos 12+ miembros con **98% cumplimiento** de seguridad
+- **Computer Engineering** — UNED (95% complete, thesis pending)
+- **Diploma in Computer Science** — UNED (Completed 2024)
+- **Electronic Engineering** — UTN (In progress)
 
-**🔬 Ingeniero Jr. de R&D** - Establishment Labs *(Sep 2021 - Oct 2023)*
-- Pruebas experimentales, prototipado y verificación de diseño  
-- Documentación técnica y cumplimiento **ISO 13485**
-- Coordinación de proyectos de verificación de diseño
+Certifications: ISO 13485, Lean Manufacturing, Six Sigma Green Belt
 
-### 🌟 GeeksLab.tech - Servicios Profesionales
+---
 
-**💰 Tarifas Competitivas (Costa Rica Base):**
-- 🔬 **R&D Leadership**: $35-55/hora | $4,800-7,200/mes
-- 💻 **Software Development**: $25-40/hora | $3,200-5,500/mes  
-- ⚡ **Hybrid Consulting**: $30-45/hora | $4,000-6,000/mes
+## Services via GeeksLab.tech
 
-**🎯 Ventaja Competitiva:**
-- ✅ **50-70% ahorro** vs tarifas estadounidenses
-- ✅ **Timezone GMT-6** - Alineación perfecta con horarios US
-- ✅ **Calidad empresarial** a precios regionales
-- ✅ **13+ años experiencia** con resultados medibles
+| Role | Hourly | Monthly |
+|---|---|---|
+| R&D Leadership | $35-55/hr | $4,800-7,200 |
+| Software Development | $25-40/hr | $3,200-5,500 |
+| Hybrid Consulting | $30-45/hr | $4,000-6,000 |
 
-### 📈 Métricas de Impacto
+50-70% cost advantage vs US rates. GMT-6 timezone. Enterprise quality.
 
-<div align="center">
+---
 
-| Métrica | Resultado | Impacto |
-|---------|-----------|---------|
-| 🚀 **Eficiencia de Producción** | +15% | Procesos optimizados R&D |
-| ⚡ **Tiempo Control Calidad** | -25% | Sistemas automatizados |
-| 🛡️ **Cumplimiento Seguridad** | 98% | Liderazgo equipos 12+ |
-| 📊 **Entrega Proyectos** | 100% | 6+ años sin fallos |
-| 💰 **ROI Estimado** | $500K+ | Ahorros proceso acumulados |
+## Contact
 
-</div>
+- Website: [cv.geekslab.tech](https://cv.geekslab.tech)
+- Corporate: [geekslab.tech](https://geekslab.tech)
+- Email: tonymora1982@gmail.com
+- LinkedIn: [anthony-mora-parra-94941282](https://linkedin.com/in/anthony-mora-parra-94941282)
 
-### 📫 Contacto Profesional
-
-- 🌐 **Website**: [cv.geekslab.tech](https://cv.geekslab.tech)
-- 🏢 **Corporate**: [geekslab.tech](https://geekslab.tech)  
-- 📧 **Email**: [tonymora1982@gmail.com](mailto:tonymora1982@gmail.com?subject=Oportunidad%20Profesional%20-%20GeeksLab&body=Hola%20Anthony%2C%0A%0AEncontré%20tu%20perfil%20en%20GitHub%20y%20me%20interesa%20discutir%20una%20oportunidad.%0A%0ASaludos)
-- 💼 **LinkedIn**: [anthony-mora-parra-94941282](https://linkedin.com/in/anthony-mora-parra-94941282)
-- 📱 **WhatsApp**: Disponible vía contacto profesional
-
-
+> | Production Efficiency | +15% improvement |
+> | Quality Control Time | -25% reduction |
+> | Safety Compliance | 98% leading teams of 12+ |
+> | R&D Project Delivery | 100% success rate over 6+ years |
+> | Documented Process ROI | $500K+ in savings |
+>
+> ---
+>
+> ## Tech Stack
+>
+> **Frontend & Full-Stack**
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+>
+> **Backend & Tools**
+>
+> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+>
+> **R&D & Manufacturing**
+>
+> ![ISO 13485](https://img.shields.io/badge/ISO_13485-Medical_Devices-blue?style=flat-square)
+> ![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-Process_Optimization-green?style=flat-square)
+> ![Six Sigma](https://img.shields.io/badge/Six_Sigma-Green_Belt-brightgreen?style=flat-square)
+>
+> ---
+>
+> ## Featured Projects
+>
+> ### GeeksLab.tech Corporate Platform
+> Enterprise platform with multi-domain architecture.
+> - **Security Score:** 100/100 enterprise-level certification
+> - - **Stack:** Next.js 15 + TypeScript + 13 Security Headers
+>   - - **Domains:** geekslab.tech, cv.geekslab.tech, portfolio.geekslab.tech
+>    
+>     - ### Professional CV System
+>     - Automated PDF generation system optimized for technical recruiters.
+>     - - $500K+ in documented process savings
+>       - - 9 recruiter-specific improvements implemented
+>         - - Fully responsive across all devices
+>          
+>           - ---
+>
+> ## Professional Experience
+>
+> **Administrative Assistant — INS (Instituto Nacional de Seguros)** 2025–Present
+> Applying R&D analytical skills to optimize administrative processes and documentation systems.
+>
+> **Production Supervisor — Establishment Labs** Sep 2024–Apr 2025
+> Led teams of 12+ members. Achieved 15% production efficiency improvement and 98% safety compliance.
+>
+> **Jr. R&D Engineer — Establishment Labs** Sep 2021–Oct 2023
+> Experimental testing, prototyping, design verification, and ISO 13485 technical documentation.
+>
+> ---
+>
+> ## Education & Certifications
+>
+> - **Computer Engineering** — UNED (95% complete, thesis pending)
+> - - **Diploma in Computer Science** — UNED (Completed 2024)
+>   - - **Electronic Engineering** — UTN (In progress)
+>    
+>     - Certifications: ISO 13485, Lean Manufacturing, Six Sigma Green Belt
+>    
+>     - ---
+>
+> ## Services via GeeksLab.tech
+>
+> | Role | Hourly | Monthly |
+> |---|---|---|
+> | R&D Leadership | $35-55/hr | $4,800-7,200 |
+> | Software Development | $25-40/hr | $3,200-5,500 |
+> | Hybrid Consulting | $30-45/hr | $4,000-6,000 |
+>
+> 50-70% cost advantage vs. US rates · GMT-6 timezone · Enterprise quality
+>
+> ---
+>
+> ## Contact
+>
+> - Website: [cv.geekslab.tech](https://cv.geekslab.tech)
+> - - Corporate: [geekslab.tech](https://geekslab.tech)
+>   - - Email: tonymora1982@gmail.com
+>     - - LinkedIn: [anthony-mora-parra-94941282](https://linkedin.com/in/anthony-mora-parra-94941282)
